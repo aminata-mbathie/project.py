@@ -1,0 +1,17 @@
+1)
+>>>fichier=open("C:\\Users\\\Mbathie Aminata\\Desktop\\exo1.txt", "w")
+>>>fichier=open("exo1.txt", "a")
+>>> fichier.write("hello word")
+10
+>>>fichier=open("exo1.txt", "r")
+ >>>print(fichier.read())
+ 2)
+
+ >>> fichier=open("C:\\Users\\Mbathie Aminata\\AppData\\Local\\Programs\\Python\\Python37\\exo1.py", "a")
+>>> fichier.write("fatigue")
+7
+>>>import os
+>>>os.getcwd()
+3)
+
+4)if __name__ == "__main__":
